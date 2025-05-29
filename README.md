@@ -27,5 +27,5 @@ python manage.py test
 Fitxer de CI ubicat a .github/workflows/test.yml.
 
 ## Documentació Generada Enllaços
-- [models.py]()
-- [views.py]()
+- [models.py](https://htmlpreview.github.io/?https://github.com/jasonokoro10/django_project/blob/main/docs/blog.models.html)
+- [views.py](https://htmlpreview.github.io/?https://github.com/jasonokoro10/django_project/blob/main/docs/blog.views.html)
