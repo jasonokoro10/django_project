@@ -11,7 +11,7 @@
             <img src="{% static 'blog/images/'|add:post.image %}" alt="{{ post.title }}" class="card-image">
             <h3>{{ post.title }}</h3>
             <p>{{ post.content }}</p>
-            <a href="{% url 'posts-detail-page' post.slug %}" class="btn">Leer máx</a>
+            <a href="{% url 'posts-detail-page' post.slug %}" class="btn">Leer más</a>
         </div>
         {% endfor %}
     </div>
